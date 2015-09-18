@@ -1,0 +1,27 @@
+{
+  "name": "bmpt",
+  "version": "1.0.0",
+  "description": "A Bitmap Transformation Command-Line Utility",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/foundling/bmpt"
+  },
+  "keywords": [
+    "bitmap",
+    "node",
+    "command-line"
+  ],
+  "author": "Alex Ramsdell",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/foundling/bmpt/issues"
+  },
+  "homepage": "https://github.com/foundling/bmpt"
+}

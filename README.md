@@ -1,2 +1,3 @@
 # bmpt
-A Bitmap Transformation Library
+A Bitmap Transformation Command-Line Utility
+
