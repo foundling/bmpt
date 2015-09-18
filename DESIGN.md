@@ -7,7 +7,7 @@ MAIN PARTS
 1. command line interface
 2. argument checking
 3. bitmap object creation 
-4. transform functions
+4. run transform functions
 5. writing output
 
 
